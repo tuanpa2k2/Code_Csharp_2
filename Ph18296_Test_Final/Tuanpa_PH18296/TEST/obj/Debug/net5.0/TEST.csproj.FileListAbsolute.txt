@@ -1,0 +1,16 @@
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.exe
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.deps.json
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.runtimeconfig.json
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.runtimeconfig.dev.json
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.dll
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\ref\TEST.dll
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\bin\Debug\net5.0\TEST.pdb
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.csprojAssemblyReference.cache
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.AssemblyInfoInputs.cache
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.AssemblyInfo.cs
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.csproj.CoreCompileInputs.cache
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.dll
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\ref\TEST.dll
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.pdb
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TEST\obj\Debug\net5.0\TEST.genruntimeconfig.cache

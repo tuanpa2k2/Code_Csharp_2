@@ -1,0 +1,7 @@
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\bin\Debug\TuanPA_ph18296.exe.config
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\bin\Debug\TuanPA_ph18296.exe
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\bin\Debug\TuanPA_ph18296.pdb
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\obj\Debug\TuanPA_ph18296.csprojAssemblyReference.cache
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\obj\Debug\TuanPA_ph18296.csproj.CoreCompileInputs.cache
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\obj\Debug\TuanPA_ph18296.exe
+E:\C#_2\Ph18296_Test_Final\Tuanpa_PH18296\TuanPA_ph18296\obj\Debug\TuanPA_ph18296.pdb

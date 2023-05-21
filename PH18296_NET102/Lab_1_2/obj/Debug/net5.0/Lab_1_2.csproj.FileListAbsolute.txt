@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.exe
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.deps.json
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.runtimeconfig.json
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.dll
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\ref\Lab_1_2.dll
+E:\C#_2\PH18296_NET102\Lab_1_2\bin\Debug\net5.0\Lab_1_2.pdb
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.csprojAssemblyReference.cache
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.dll
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\ref\Lab_1_2.dll
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.pdb
+E:\C#_2\PH18296_NET102\Lab_1_2\obj\Debug\net5.0\Lab_1_2.genruntimeconfig.cache

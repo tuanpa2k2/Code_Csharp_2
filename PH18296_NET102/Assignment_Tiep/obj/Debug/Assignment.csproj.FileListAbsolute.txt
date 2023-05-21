@@ -1,0 +1,7 @@
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\FPL\Summer 2021\NET102\Assignment\Assignment\obj\Debug\Assignment.pdb

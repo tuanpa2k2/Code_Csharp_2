@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = BAI_1._0_ONTAP_CSHARP1_CRUD
+build_property.ProjectDir = E:\C#_2\PH18296_NET102\BAI_1.0_ONTAP_CSHARP1_CRUD\

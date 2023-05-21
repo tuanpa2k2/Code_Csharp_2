@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.exe
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.deps.json
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.dll
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\ref\BAI_1.8.dll
+E:\C#_2\PH18296_NET102\BAI_1.8\bin\Debug\net5.0\BAI_1.8.pdb
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.csprojAssemblyReference.cache
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.dll
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\ref\BAI_1.8.dll
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.pdb
+E:\C#_2\PH18296_NET102\BAI_1.8\obj\Debug\net5.0\BAI_1.8.genruntimeconfig.cache

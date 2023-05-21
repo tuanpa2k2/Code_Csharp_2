@@ -1,0 +1,15 @@
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.exe
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.deps.json
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.dll
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\ref\BAI_2.1_GENERIC.dll
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\bin\Debug\net5.0\BAI_2.1_GENERIC.pdb
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.dll
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\ref\BAI_2.1_GENERIC.dll
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.pdb
+E:\C#_2\PH18296_NET102\BAI_2.1_GENERIC\obj\Debug\net5.0\BAI_2.1_GENERIC.genruntimeconfig.cache

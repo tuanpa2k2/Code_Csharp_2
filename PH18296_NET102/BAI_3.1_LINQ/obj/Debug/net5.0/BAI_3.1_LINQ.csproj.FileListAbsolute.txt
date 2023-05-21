@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.exe
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.deps.json
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.dll
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\ref\BAI_3.1_LINQ.dll
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\bin\Debug\net5.0\BAI_3.1_LINQ.pdb
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.csprojAssemblyReference.cache
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.dll
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\ref\BAI_3.1_LINQ.dll
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.pdb
+E:\C#_2\PH18296_NET102\BAI_3.1_LINQ\obj\Debug\net5.0\BAI_3.1_LINQ.genruntimeconfig.cache

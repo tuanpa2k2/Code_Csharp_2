@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.exe
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.deps.json
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.dll
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\ref\BAI_3.2_LINQ_CacCauLenh.dll
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\bin\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.pdb
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.csprojAssemblyReference.cache
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.dll
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\ref\BAI_3.2_LINQ_CacCauLenh.dll
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.pdb
+E:\C#_2\PH18296_NET102\BAI_3.2_LINQ_CacCauLenh\obj\Debug\net5.0\BAI_3.2_LINQ_CacCauLenh.genruntimeconfig.cache

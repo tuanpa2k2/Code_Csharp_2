@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A_TUANPAPH18296/1.0.0": {
+        "runtime": {
+          "A_TUANPAPH18296.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A_TUANPAPH18296/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

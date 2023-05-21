@@ -1,0 +1,15 @@
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.exe
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.deps.json
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.dll
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\ref\BAI_3.0_BietThucLAMBDA.dll
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\bin\Debug\net5.0\BAI_3.0_BietThucLAMBDA.pdb
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.dll
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\ref\BAI_3.0_BietThucLAMBDA.dll
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.pdb
+E:\C#_2\PH18296_NET102\BAI_3.0_BietThucLAMBDA\obj\Debug\net5.0\BAI_3.0_BietThucLAMBDA.genruntimeconfig.cache

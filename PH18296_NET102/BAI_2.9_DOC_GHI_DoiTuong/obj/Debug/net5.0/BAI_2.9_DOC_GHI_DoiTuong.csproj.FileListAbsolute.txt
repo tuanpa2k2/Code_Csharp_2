@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.exe
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.deps.json
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.dll
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\ref\BAI_2.9_DOC_GHI_DoiTuong.dll
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\bin\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.pdb
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.dll
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\ref\BAI_2.9_DOC_GHI_DoiTuong.dll
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.pdb
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.genruntimeconfig.cache
+E:\C#_2\PH18296_NET102\BAI_2.9_DOC_GHI_DoiTuong\obj\Debug\net5.0\BAI_2.9_DOC_GHI_DoiTuong.csprojAssemblyReference.cache

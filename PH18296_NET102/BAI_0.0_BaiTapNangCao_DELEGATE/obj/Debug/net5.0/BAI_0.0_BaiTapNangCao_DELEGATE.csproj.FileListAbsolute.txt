@@ -1,0 +1,16 @@
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.exe
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.deps.json
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.runtimeconfig.json
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.runtimeconfig.dev.json
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.dll
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\ref\BAI_0.0_BaiTapNangCao_DELEGATE.dll
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\bin\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.pdb
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.csprojAssemblyReference.cache
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.AssemblyInfoInputs.cache
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.AssemblyInfo.cs
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.csproj.CoreCompileInputs.cache
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.dll
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\ref\BAI_0.0_BaiTapNangCao_DELEGATE.dll
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.pdb
+E:\C#_2\PH18296_NET102\BAI_0.0_BaiTapNangCao_DELEGATE\obj\Debug\net5.0\BAI_0.0_BaiTapNangCao_DELEGATE.genruntimeconfig.cache
